@@ -21,7 +21,7 @@ const projects = [
     description:
       'Jasa Akuntansi yang siap bantu catat, kelola dan laporan keuangan bisnismu dengan rapih.',
     image: '/images/accounting.jpg',
-    tech: ['PHP', 'Firebase', 'HTML/CSS'],
+    tech: ['/'],
     link: '#',
     icon: <Code2 size={18} />,
   },
